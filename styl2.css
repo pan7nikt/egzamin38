@@ -1,0 +1,46 @@
+body {
+    font-family: Helvetica;
+}
+
+#topl,
+#topr {
+    background-color: #6FACE3;
+    color: blue;
+    height: 300px;
+    width: 30%;
+    float: left;
+}
+
+#topm {
+    background-color: #6FACE3;
+    color: blue;
+    height: 300px;
+    width: 40%;
+    float: left;
+}
+
+#content {
+    background-color: #4C93D2;
+    height: 350px;
+    padding: 20px;
+    text-align: center;
+    clear: both;
+}
+
+#stopka {
+    background-color: #2D77BA;
+    color: white;
+    height: 170px;
+    padding: 15px;
+    clear: both;
+}
+
+a {
+    background-color: lightskyblue;
+    margin: 5px;
+    padding: 10px;
+}
+
+a:visited {
+    background-color: lightsteelblue;
+}
